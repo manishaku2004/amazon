@@ -17,7 +17,7 @@
     
 }
 .logo {
-    background-image: url(image/images);
+    background-image: url('image/images');
     height: 50px;
     
     background-position: center;
@@ -116,7 +116,7 @@
   }
 /**hero section**/
 .hero-section {
-    background-image: url(image/shop\ img.jpg);
+    background-image: url('image/shop\ img.jpg');
     height: 400px;
     background-size: cover;
     
